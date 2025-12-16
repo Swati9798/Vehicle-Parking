@@ -1,0 +1,7 @@
+{
+  "js/ts.implicitProjectConfig.checkJs": false,
+  "typescript.preferences.includePackageJsonAutoImports": "off",
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "vetur.validation.script": false
+}
